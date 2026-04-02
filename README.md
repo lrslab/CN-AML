@@ -1,5 +1,5 @@
 # CN-AML
-nanopore whole-genome sequencing of cytogenetically normal acute myeloid leukaemia 
+nanopore whole-genome sequencing of cytogenetically normal acute myeloid leukaemia w/wo DNMT3A mutation
 1. Copy number and single nucleotide variation detection
 2. Methylation calling
 3. Epitype clustering
