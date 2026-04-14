@@ -1,0 +1,15 @@
+#Control-FREEC config file
+[general]
+chrLenFile = ref/hg38.len.txt
+ploidy = 2
+window = 10000000
+breakPointThreshold = 0.8;
+chrFiles = ref/hg38/
+outputDir = cnv/mut1_p2w10m/
+sex=XX #or XY
+maxThreads=32
+
+[sample]
+mateFile = bam/wt1.bam
+inputFormat = bam
+mateOrientation = 0
