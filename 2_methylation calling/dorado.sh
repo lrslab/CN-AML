@@ -1,0 +1,1 @@
+dorado basecaller model/dna_r9.4.1_e8_sup@v3.3 pod5/wt1/ --reference ref/hg38.fa --modified-bases 5mCG > wt1_5mC.bam
